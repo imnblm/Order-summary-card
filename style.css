@@ -1,0 +1,6 @@
+:root {
+    background-color: black;
+    color : white;
+    --text-primary: pink;
+    --text-secondary: green;
+}
