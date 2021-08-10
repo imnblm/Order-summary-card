@@ -1,6 +1,21 @@
 :root {
-    background-color: black;
-    color : white;
-    --text-primary: pink;
-    --text-secondary: green;
+    background-image: url(images/pattern-background-desktop.svg);
+    
+    
+}
+
+.card-layout {
+    margin: auto;
+    width: 40%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px; /* 5px rounded corners */
+}
+
+.order-layout {
+
+}
+
+.button {
+
 }
